@@ -1,0 +1,40 @@
+
+body{
+  background-color: #C2DED1;
+}
+
+hr{
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  background-color: inherit;
+  border-color: white;
+}
+
+h1, h3{
+  color: #354259;
+  font-family: 'Joan', serif;
+
+}
+
+p, li, table{
+  color: #4B5D67;
+  line-height: 32px;
+  font-family: 'Roboto', sans-serif;
+}
+
+button{
+  font-family: 'Roboto', serif;
+  font-size: 16px;
+  padding: 16px 32px;
+  border: none;
+  background-color: #354259;
+  color: white;
+  border-radius: 8px;
+}
+
+button:hover{
+  background-color: black;
+  transition: 0.5s;
+}
